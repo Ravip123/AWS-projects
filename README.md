@@ -1,4 +1,4 @@
-# AWS Projects Portfolio
+# AWS Projects Portfolio -
 
 This repository contains two projects demonstrating my learning and hands-on implementation skills in AWS and programming fundamentals.
 
